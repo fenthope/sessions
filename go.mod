@@ -11,7 +11,7 @@ require (
 	github.com/gomodule/redigo v1.9.2
 	github.com/gorilla/context v1.1.2
 	github.com/gorilla/sessions v1.4.0
-	github.com/infinite-iroha/touka v0.2.8
+	github.com/infinite-iroha/touka v0.2.9
 	github.com/kidstuff/mongostore v0.0.0-20181113001930-e650cd85ee4b
 	github.com/laziness-coders/mongostore v0.0.15
 	github.com/memcachier/mc v2.0.1+incompatible
@@ -23,10 +23,10 @@ require (
 )
 
 require (
-	github.com/WJQSERVER-STUDIO/go-utils/copyb v0.0.4 // indirect
-	github.com/WJQSERVER-STUDIO/httpc v0.7.1 // indirect
+	github.com/WJQSERVER-STUDIO/go-utils/copyb v0.0.6 // indirect
+	github.com/WJQSERVER-STUDIO/httpc v0.8.0 // indirect
 	github.com/fenthope/reco v0.0.3 // indirect
-	github.com/go-json-experiment/json v0.0.0-20250517221953-25912455fbc8 // indirect
+	github.com/go-json-experiment/json v0.0.0-20250626171732-1a886bd29d1b // indirect
 	github.com/golang/snappy v1.0.0 // indirect
 	github.com/gorilla/securecookie v1.1.2 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
