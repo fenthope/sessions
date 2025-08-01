@@ -1,6 +1,6 @@
 module github.com/fenthope/sessions
 
-go 1.24.4
+go 1.24.5
 
 require (
 	github.com/antonlindstrom/pgstore v0.0.0-20220421113606-e3a6e3fed12a
@@ -11,7 +11,7 @@ require (
 	github.com/gomodule/redigo v1.9.2
 	github.com/gorilla/context v1.1.2
 	github.com/gorilla/sessions v1.4.0
-	github.com/infinite-iroha/touka v0.3.3
+	github.com/infinite-iroha/touka v0.3.6
 	github.com/kidstuff/mongostore v0.0.0-20181113001930-e650cd85ee4b
 	github.com/laziness-coders/mongostore v0.0.15
 	github.com/memcachier/mc v2.0.1+incompatible
@@ -23,11 +23,10 @@ require (
 )
 
 require (
-	github.com/WJQSERVER-STUDIO/go-utils/copyb v0.0.6 // indirect
 	github.com/WJQSERVER-STUDIO/go-utils/iox v0.0.2 // indirect
-	github.com/WJQSERVER-STUDIO/httpc v0.8.1 // indirect
-	github.com/fenthope/reco v0.0.3 // indirect
-	github.com/go-json-experiment/json v0.0.0-20250714165856-be8212f5270d // indirect
+	github.com/WJQSERVER-STUDIO/httpc v0.8.2 // indirect
+	github.com/fenthope/reco v0.0.4 // indirect
+	github.com/go-json-experiment/json v0.0.0-20250725192818-e39067aee2d2 // indirect
 	github.com/golang/snappy v1.0.0 // indirect
 	github.com/gorilla/securecookie v1.1.2 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
