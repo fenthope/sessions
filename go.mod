@@ -4,7 +4,7 @@ go 1.25.1
 
 require (
 	github.com/antonlindstrom/pgstore v0.0.0-20220421113606-e3a6e3fed12a
-	github.com/boj/redistore v1.4.1
+	github.com/boj/redistore v1.4.2
 	github.com/bradfitz/gomemcache v0.0.0-20250403215159-8d39553ac7cf
 	github.com/bradleypeabody/gorilla-sessions-memcache v0.0.0-20240916143655-c0e34fd2f304
 	github.com/globalsign/mgo v0.0.0-20181015135952-eeefdecb41b8
